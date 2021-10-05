@@ -1,0 +1,184 @@
+/* .body,html{
+    overflow-x: hidden;
+    overflow-y: hidden ;
+  } */
+  /* .login{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40%;
+    
+  } */
+  
+  /* .login-image{
+    position:relative;
+    margin-left: -69%;
+    width: 105vw;
+    height: 820px;
+    z-index: -1;
+    position: relative;
+  } */
+  
+  /* .heading_login{
+    font-family: 'Tangerine', cursive;
+    font-size:6rem;
+    color:var(--heading);
+    position:absolute;
+    z-index:1;
+    margin-top:-43%;
+    margin-right: auto;
+    margin-left: 2.5%;
+    
+    
+  } */
+  
+  /* .login-container{
+     position: absolute;
+     margin-top: -60%;
+     top:0;
+     width: 300px;
+     height: fit-content;
+     background-color: white;
+     display: flex;
+     flex-direction: column;
+     border-radius: 10px;
+     
+     padding:20px;
+     text-align: left;
+     z-index: 1;
+     
+  } */
+  
+  /* .header{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-weight: 500;
+     z-index: 1;
+     
+  }
+  
+  .login-container h1{
+     font-weight: 500;
+     margin-bottom: 20px;
+     align-items: flex-start;
+  }
+  
+  .login-container > form > h5{
+     font-weight: 500;
+     margin-top: 5px;
+     padding-top: 5px;
+     margin-bottom: 5px;
+     font-family: sans-serif;
+  }
+  
+  .login-container > form >  input{
+     height: 30px;
+     margin-bottom: 10px;
+     background-color: white;
+     border-radius: 5px;   
+     width: 100%;
+     
+  }
+  
+  .pass{
+     display: flex;
+     flex-direction: row;
+     width: 100%;
+  }
+  .icons{
+     position: absolute;
+     margin-left: -35px;
+     cursor: pointer;
+     font-size: 1.8rem;
+     padding-bottom: 10px;
+  }
+  
+  ::placeholder{
+     padding-left: 5px;
+     font-size: medium;
+  }
+  
+  p{
+     font-size: 20px;
+  }
+  
+  .login_btn{
+    width: 100%;
+    height: 35px;
+    margin-top: 5px;
+    background-color: var(--addbtn);
+    border-radius: 5px;
+    font-size: 20px;
+    border:none;
+    cursor: pointer;
+  }
+  
+  .para{
+    text-align: center;
+    padding-top: 14px;
+    font-weight: 600;
+    
+  }
+  
+  .create_btn{
+    width: 100%;
+    height: 30px;
+    font-size:medium;
+    background-color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+   */
+  /* @media screen and (max-width: 1478px){
+    .heading_login{
+        margin-top: -55%;
+    }
+    .login-container{
+        margin-top: -75%;
+    }
+  }
+  
+  @media screen and (max-width: 1250px){
+    .heading_login{
+        margin-top: -65%;
+    }
+    .login-container{
+        margin-top: -90%;
+    }
+  }
+  
+  @media screen and (max-width: 1000px){
+    .heading_login{
+        margin-top: -75%;
+    }
+    .login-container{
+        margin-top: -100%;
+    }
+  }
+  
+  @media screen and (max-width: 900px){
+    .heading_login{
+        margin-top: -90%;
+    }
+    .login-container{
+        margin-top: -125%;
+    }
+  }
+  
+  @media screen and (max-width: 767px){
+    .heading_login{
+        margin-top: -105%;
+    }
+    .login-container{
+        margin-top: -140%;
+    }
+  }
+  
+  @media screen and (max-width: 720px){
+    .heading_login{
+        margin-top: -115%;
+        margin-left: -2%;
+    }
+    .login-container{
+        margin-top: -160%;
+        margin-left: -15%;
+    }
+  } */
