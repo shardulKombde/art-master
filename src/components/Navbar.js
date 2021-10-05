@@ -19,7 +19,7 @@ const {openSidebar} = usePaintingsContext()
   <img className="navbarImage" src={navbarImage}/>
   <div className="color"> 
       <Link to="/">
-        <h1 className="heading">Lorem</h1>
+        <h1 className="heading">Art Amour</h1>
       </Link>
   </div>
     <div className="nav-header">
